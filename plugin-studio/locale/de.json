@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Plugin studio",
+    "description": "Öffne es über die plugin-studio-Schaltfläche unten in der Seitenleiste neben „Einstellungen“ oder über Einstellungen → Plugins → Plugin studio; beide zeigen denselben Builder. Lege fest, welche MCP-Server das Studio lesen darf, führe eine Sammelabfrage über deren Werkzeuge aus und erzeuge daraus ein Datenpanel unter dem Eingabefeld oder nach jeder Antwort – oder ein reines Konfigurations-Bundle für eine MCP-Verbindung. Fertige Bundles landen in plugin-studio-builds im Arbeitsverzeichnis und werden ohne Handarbeit installiert. Der gesammelte Stand bleibt im Panel festgeschrieben, bis du neu erzeugst; ohne verbundenen MCP-Server lässt sich nichts sammeln.",
+    "detail": "docs/DETAIL.md"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Plugin studio",
+    "description": "Open it from the plugin-studio button at the foot of the sidebar, beside Settings, or from Settings → Plugins → Plugin studio: both show the same builder. Choose which MCP servers the studio may read, run one aggregation query across their tools, then generate a data panel that renders below the composer or after each turn, or a configuration-only bundle that connects a new MCP server. Generated bundles are written to plugin-studio-builds in your workspace and installed without editing any file by hand. The collected snapshot is fixed inside the generated panel until you generate it again, and nothing can be collected while no MCP server is connected.",
+    "detail": "docs/DETAIL.md"
+  }
+}

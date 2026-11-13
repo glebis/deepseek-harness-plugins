@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Plugin studio",
+    "description": "从侧边栏底部「设置」旁的 plugin-studio 按钮打开，或通过「设置 → 插件 → Plugin studio」打开，两者是同一个构建器。选择本插件可读取的 MCP 服务器，对其工具执行一次汇总查询，然后生成输入框下方或每轮回复之后的数据面板，或不含代码的 MCP 连接 bundle。生成的 bundle 写入工作区中的 plugin-studio-builds 并自动安装。快照会固定写入生成的面板，直到再次生成；未连接任何 MCP 服务器时无法采集。",
+    "detail": "docs/DETAIL.md"
+  }
+}
